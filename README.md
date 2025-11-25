@@ -66,9 +66,9 @@ The final output includes a display of policyholder details similar to:
 ======================================
  Policy Holder Details
 --------------------------------------
- Name: Alice Johnson
- Policy ID: POL001
- Product: Life Insurance
+ Name: Thomas Mason
+ Policy ID: 102
+ Product: Deluxe Home Shield
  Status: Active
  Payment Status: Paid
 ======================================
